@@ -6,7 +6,7 @@ OpenMP Wrapper enables parallel executions of multiple tasks in a single multi-c
 
 ## Compilation
 
-To compile, it is required that (OpenMP library)[http://openmp.org] and the GNU c++ compiler are properly installed. Simply run "make" to compile the source code.
+To compile, it is required that [OpenMP library](http://openmp.org) and the GNU c++ compiler are properly installed. Simply run "make" to compile the source code.
 
 
 ## Usage
