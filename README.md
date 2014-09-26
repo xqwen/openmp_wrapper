@@ -5,3 +5,9 @@ OpenMP Wrapper enables parallel executions of multiple tasks in a single multi-c
 
 
 
+## Usage
+
+```{sh}
+openmp_wrapper -d cmd_script  -t thread_number
+```
+
